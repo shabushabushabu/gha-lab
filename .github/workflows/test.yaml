@@ -7,4 +7,4 @@ jobs:
   runs-on: ubuntu-latest
   steps:
    - users: actions/checkout@v2
-   - run: python hello.py  
+   - run: python3 hello.py  
